@@ -6,7 +6,7 @@ categories: [ tournaments, american, social, may]
 image: assets/images/posts/2023-05-01/img1.jpeg
 ---
 
-Congratulations to Moira for winning the mini tournament organised on the 1st of May.
+Congratulations to Maire O'Meara Grootveld for winning the mini tournament organised on the 1st of May.
 The event was organised by William Foot.
 
 More photos from the event below.
